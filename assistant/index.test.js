@@ -19,7 +19,7 @@ test('assistant works', async () => {
       },
       message: {
         type: 'text',
-        text: '嗨',
+        text: 'ai:嗨',
       },
     },
   ];
